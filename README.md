@@ -16,7 +16,7 @@ A powerful command-line tool for controlling web browsers from your terminal. Br
 Clone the repository and run the installer:
 
 ```bash
-git clone https://github.com/yourusername/browser-agent.git
+git clone https://github.com/Marvellousz/Browser-Agent
 cd browser-agent
 chmod +x install.sh
 ./install.sh
